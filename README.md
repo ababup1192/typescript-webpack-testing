@@ -1,1 +1,12 @@
-A boilerplate repo for starting TDD with Typescript and Webpack. Uses Mocha, Chai, Sinon, and Karma.
+# Initialize
+
+```
+npm install
+typings install
+```
+
+# Testing
+
+```
+npm test
+```
